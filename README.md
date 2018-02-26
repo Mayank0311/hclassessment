@@ -1,3 +1,5 @@
+Kindly clone the project by using above URL. Once it is cloned you'll find the ToDoApp. Run the application and you'll see the Login form. Here you have to enter the credential. Please enter "admin" in both username and password for login. Thanks
+
 ## Angular Exercise: TODO List
 
 * Create an interface that allows a user to login to view its to-do lists (if any).
